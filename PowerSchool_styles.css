@@ -8,9 +8,12 @@ body {
 }
 #header {
   font-size: 30px;
-  color: yellow;
+  color: black;
 }
 #GPA {
   text-align: center;
   color: red;
+}
+#grades {
+  text-align: center;
 }
